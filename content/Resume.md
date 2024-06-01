@@ -50,7 +50,7 @@ June 2008 - August 2017
 - Demonstrated leadership, decision-making, problem-solving in high-pressure situations. Skilled in logistics planning and operations to support mission objectives.
 
 ## EDUCATION ##
-### Western Governor's University 2023-2024 ###
+### Western Governor's University ###
 Master of Science - MS, IT Management 
 2023-2024
 ### University of Texas at San Antonio ###
