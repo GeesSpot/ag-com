@@ -10,8 +10,8 @@ Today, as an IT Technician for a global BPO, I leverage my diverse experiences t
 
 On this site, I share:
 
-- [[Study Guides/]] distilling my IT knowledge
-- Technical references from real-world scenarios
-- My professional resume and credentials
+- [[Study Guides/| Study guides]] distilling my IT knowledge
+- Technical [[Reference/|references]] from real-world scenarios
+- My professional [[Resume/|resume]] and credentials
 
 Join me as I continue exploring the ever-evolving tech landscape, guided by the principles of dedication and lifelong learning.
