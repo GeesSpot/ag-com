@@ -117,7 +117,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       if (options.showCurrentPage && slugParts.at(-1) !== "index") {
         crumbs.push({
           displayName: fileData.frontmatter!.title,
-          path: "",
+          path: "/",
         })
       }
     }
