@@ -11,7 +11,7 @@ A certified IT professional with expertise in network solutions, cybersecurity p
 
 ## Experience ##
 
-### IT Technician, Datamark Inc. ###
+### IT Technician, Confidential ###
 October 2023-Present 
 -  Developed, tested, and currently deploying a global enterprise RADIUS solution for network devices, enhancing connectivity, security and performance across the global enterprise infrastructure. 
 - Communicate with clients to troubleshoot and resolve tier 1-4 issues, providing high-quality technical support and customer service. 
