@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Hello World!
 ---
 
 My journey began with 9 years of service in the army, forging an unwavering work ethic and team mindset. I then pursued higher education, earning an undergrad degree and a master's in IT management.
