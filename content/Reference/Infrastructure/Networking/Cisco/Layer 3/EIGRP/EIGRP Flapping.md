@@ -3,8 +3,8 @@ title: EIGRP Flapping
 draft: false
 tags:
   - Cisco
-  - Routers
   - EIGRP
+  - Layer-3
 ---
 ## Why EIGRP Flapping Can Occur: 
 
