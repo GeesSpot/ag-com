@@ -5,6 +5,7 @@ tags:
   - Cisco
   - EIGRP
   - Layer-3
+  - Flapping
 ---
 ## Why EIGRP Flapping Can Occur: 
 
