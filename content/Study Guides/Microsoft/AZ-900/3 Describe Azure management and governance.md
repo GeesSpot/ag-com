@@ -1,5 +1,5 @@
 ---
-title: "Part 3: Describe Azure management and governance"
+title: Describe Azure management and governance
 draft: false
 tags:
   - AZ-900

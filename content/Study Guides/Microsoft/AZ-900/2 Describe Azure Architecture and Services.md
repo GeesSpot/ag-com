@@ -1,5 +1,5 @@
 ---
-title: "Part 2: Describe Azure Architecture and Services"
+title: Describe Azure Architecture and Services
 draft: false
 tags:
   - AZ-900

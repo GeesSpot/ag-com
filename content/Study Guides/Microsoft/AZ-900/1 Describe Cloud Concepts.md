@@ -1,5 +1,5 @@
 ---
-title: "Part 1: Describe Cloud Concepts"
+title: Describe Cloud Concepts
 draft: false
 tags:
   - AZ-900
